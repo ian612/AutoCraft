@@ -1,0 +1,555 @@
+# StarCraft II Video Description Captions
+#
+# Generated Manually by Ian Bennett & Miguel Rogel
+# Using the same format as the Microsoft Research Video Description Dataset
+
+Eg-jIWWemeQ_50_60 an SCV is building a structure
+Eg-jIWWemeQ_50_60 the Terran player is building Supply Depots
+Eg-jIWWemeQ_50_60 the Terran player is building structures
+Eg-jIWWemeQ_50_60 workers are collecting minerals
+Eg-jIWWemeQ_50_60 SCVs are building Supply Depots and collecting minerals
+Eg-jIWWemeQ_50_60 an SCV unit is commanded to build Supply Depots
+Eg-jIWWemeQ_175_185 the Terran player is building a new Command Post near some minerals and Vespene Gas
+Eg-jIWWemeQ_175_185 a new Command Post is being built
+Eg-jIWWemeQ_175_185 a scout approaches the base but then retreats
+Eg-jIWWemeQ_175_185 a worker leaves to build a new Command Post
+Eg-jIWWemeQ_175_185 an SCV begins building a Command Post
+Eg-jIWWemeQ_175_185 the terran unit rushes downhill to build a structure
+Eg-jIWWemeQ_275_285 workers are collecting minerals
+Eg-jIWWemeQ_275_285 minerals are collected by workers
+Eg-jIWWemeQ_275_285 command post rally locations are set
+Eg-jIWWemeQ_275_285 workers collect minerals
+Eg-jIWWemeQ_275_285 SCVs collect minerals
+Eg-jIWWemeQ_275_285 gatherers collect resources at multiple locations
+Eg-jIWWemeQ_330_340 the Terran player builds a Barracks near another Barracks
+Eg-jIWWemeQ_330_340 the Terran player builds a Ghost Academy
+Eg-jIWWemeQ_330_340 SCVs are collecting minerals
+Eg-jIWWemeQ_330_340 the Terran workers are collecting minerals
+Eg-jIWWemeQ_330_340 the Terran player builds a Barracks
+Eg-jIWWemeQ_330_340 a worker unit will build a Barracks and a Ghost Academy
+Eg-jIWWemeQ_360_370 SCVs are collecting minerals
+Eg-jIWWemeQ_360_370 SCVs are sent to a Refinery
+Eg-jIWWemeQ_360_370 workers are commanded to enter a Refinery
+Eg-jIWWemeQ_360_370 Marines are attacking a pile of rocks
+Eg-jIWWemeQ_360_370 SCVs collect minerals
+Eg-jIWWemeQ_360_370 a destructible unit is being attacked by a SCV
+Eg-jIWWemeQ_385_395 workers are collecting minerals
+Eg-jIWWemeQ_385_395 SCVs are bringing minerals to a Command Center
+Eg-jIWWemeQ_385_395 the Terran player builds more SCVs
+Eg-jIWWemeQ_385_395 Terran SCVs are gathering minerals
+Eg-jIWWemeQ_385_395 workers are gathering minerals
+Eg-jIWWemeQ_385_395 minerals are brought into the Command Center
+Eg-jIWWemeQ_455_465 workers are gathering minerals
+Eg-jIWWemeQ_455_465 an SCV is building a structure near rich mineral veins
+Eg-jIWWemeQ_455_465 an SCV is commanded to build Vespene gas refineries
+Eg-jIWWemeQ_455_465 an SCV builds refineries
+Eg-jIWWemeQ_455_465 two turrets attack enemy scouts
+Eg-jIWWemeQ_455_465 Terrans are building refineries to extract nearby resources
+Eg-jIWWemeQ_490_500 an SCV is commanded to build structures
+Eg-jIWWemeQ_490_500 a base is being expanded
+Eg-jIWWemeQ_490_500 the Terran player builds an Armory and two Starports
+Eg-jIWWemeQ_490_500 a worker begins building structures
+Eg-jIWWemeQ_490_500 the Terran player is building new structures
+Eg-jIWWemeQ_490_500 SCV workers finish a factory and are commanded to build more structures
+Eg-jIWWemeQ_515_525 the Terran player selects a Factory
+Eg-jIWWemeQ_515_525 a Factory is selected
+Eg-jIWWemeQ_515_525 the player builds a Tech Lab
+Eg-jIWWemeQ_515_525 the player builds a Tech Lab
+Eg-jIWWemeQ_515_525 the Terran player builds a Tech Lab from their Factory
+Eg-jIWWemeQ_515_525 a Factory is upgraded with a Techlab
+Eg-jIWWemeQ_535_545 workers are collecting minerals from rich mineral deposits
+Eg-jIWWemeQ_535_545 SCVs are gathering minerals
+Eg-jIWWemeQ_535_545 the player has queued many Supply Depots tobe built
+Eg-jIWWemeQ_535_545 the Terran player is managing their workers
+Eg-jIWWemeQ_535_545 workers are gathering minerals
+Eg-jIWWemeQ_535_545 workers are gathering resources as the Terran player supervises the map
+Eg-jIWWemeQ_610_620 a Protoss force is attacking Terran soldiers
+Eg-jIWWemeQ_610_620 a structure is destroyed
+Eg-jIWWemeQ_610_620 there is a battle between Terran Marines and Protoss
+Eg-jIWWemeQ_610_620 Terran units defend their base
+Eg-jIWWemeQ_610_620 Protoss and Terran units are fighting
+Eg-jIWWemeQ_610_620 Marauders engage in a fight with Terran soldiers
+Eg-jIWWemeQ_620_630 Terran units destroy Protoss soldiers
+Eg-jIWWemeQ_620_630 a battle between Terran and Protoss forces
+Eg-jIWWemeQ_620_630 Terran soldiers attack Protoss units
+Eg-jIWWemeQ_620_630 a group of Terran units destroy some Protoss units
+Eg-jIWWemeQ_620_630 Terran units defend their base
+Eg-jIWWemeQ_620_630 Thor destroys several enemy units
+Eg-jIWWemeQ_645_655 an SCV builds some structures
+Eg-jIWWemeQ_645_655 a worker builds two Bunkers
+Eg-jIWWemeQ_645_655 a Terran SCV is commanded to build two structures
+Eg-jIWWemeQ_645_655 an SCV is commanded to build structures
+Eg-jIWWemeQ_645_655 two Bunkers are built
+Eg-jIWWemeQ_645_655 an SCV unit build two Fusion Cores in unknown territory
+Eg-jIWWemeQ_650_660 an SCV begins constructing a structure
+Eg-jIWWemeQ_650_660 an SCV builds a structure as the player lowers Supply Depots
+Eg-jIWWemeQ_650_660 an SCV is constructing a building
+Eg-jIWWemeQ_650_660 a worker is building a Bunker
+Eg-jIWWemeQ_650_660 the player lowers several Supply Depots
+Eg-jIWWemeQ_650_660 the Terran player oversees the structures
+Eg-jIWWemeQ_745_755 the player is observing their base
+Eg-jIWWemeQ_745_755 the player builds some air units
+Eg-jIWWemeQ_745_755 the player builds several air units
+Eg-jIWWemeQ_745_755 workers are collecting minerals and Vespene gas
+Eg-jIWWemeQ_745_755 the Terran player builds air units
+Eg-jIWWemeQ_745_755 Liberators and Ravens are built by the player
+Eg-jIWWemeQ_965_975 the player trains some Marines and then selects their Starports
+Eg-jIWWemeQ_965_975 the Terran player is training units
+Eg-jIWWemeQ_965_975 the player is training units
+Eg-jIWWemeQ_965_975 the Terran player is building units for their army
+Eg-jIWWemeQ_965_975 the Terran player waits for more resources
+Eg-jIWWemeQ_965_975 the Terran player prepares for battle
+Eg-jIWWemeQ_970_980 the player builds Cyclones
+Eg-jIWWemeQ_970_980 the player is looking at their base
+Eg-jIWWemeQ_970_980 the player is building units
+Eg-jIWWemeQ_970_980 the player is looking at their base
+Eg-jIWWemeQ_970_980 the player is waiting
+Eg-jIWWemeQ_970_980 the player constructs mobile assault vehicles
+Eg-jIWWemeQ_1000_1010 SCVs are mining minerals from rich mineral fields
+Eg-jIWWemeQ_1000_1010 units are assembling
+Eg-jIWWemeQ_1000_1010 workers are building new structures
+Eg-jIWWemeQ_1000_1010 workers are collecting minerals
+Eg-jIWWemeQ_1000_1010 an army is assembling near some workers
+Eg-jIWWemeQ_1000_1010 units are gathered to prepare for the fight
+Eg-jIWWemeQ_1060_1070 Two armies are engaged in a battle
+Eg-jIWWemeQ_1060_1070 Protoss ships are attacked and destroyed
+Eg-jIWWemeQ_1060_1070 Protoss Carriers are destroyed by Terran forces
+Eg-jIWWemeQ_1060_1070 Terrans and Protoss are engaged in a battle
+Eg-jIWWemeQ_1060_1070 Terran Battlecruisers are attacking Protoss Carriers
+Eg-jIWWemeQ_1060_1070 Aerial vehicles engage in battle
+Eg-jIWWemeQ_1080_1090 Terran Battlecruisers and Cyclones are attacking a Protoss base
+Eg-jIWWemeQ_1080_1090 a Terran army is attacking
+Eg-jIWWemeQ_1080_1090 a base is being attacked
+Eg-jIWWemeQ_1080_1090 aerial and ground units are attacking a base
+Eg-jIWWemeQ_1080_1090 buildings are getting destroyed
+Eg-jIWWemeQ_1080_1090 the Terran army destroys the Protoss structure
+Eg-jIWWemeQ_1135_1145 the Terran player selects their army and attacks the Protoss base
+Eg-jIWWemeQ_1135_1145 Terran Battlecruisers attack the Protoss structures
+Eg-jIWWemeQ_1135_1145 the Protoss base is being attacked
+Eg-jIWWemeQ_1135_1145 Protoss structures are being destroyed by the Terran army
+Eg-jIWWemeQ_1135_1145 Terran units are attacking a Protoss base
+Eg-jIWWemeQ_1135_1145 Terran attack units engage the unarmed Protoss base
+Eg-jIWWemeQ_1140_1150 Terran Siege Tanks and Battlecruisers attack the Protoss base
+Eg-jIWWemeQ_1140_1150 the Terran player attacks the Protoss base
+Eg-jIWWemeQ_1140_1150 the Terran player deploys Siege Tanks
+Eg-jIWWemeQ_1140_1150 Terran units attack Protoss structures
+Eg-jIWWemeQ_1140_1150 structures are attacked and destroyed
+Eg-jIWWemeQ_1140_1150 Terrans roll over the opponent
+Eg-jIWWemeQ_1160_1170 the Terran player sends more units to attack
+Eg-jIWWemeQ_1160_1170 Battlecruisers are commanded to attack the Protoss base
+Eg-jIWWemeQ_1160_1170 Terran units attacking a base are destroyed
+Eg-jIWWemeQ_1160_1170 the player selects Battlecruisers from a different part of the map
+Eg-jIWWemeQ_1160_1170 the Protoss base is attacked
+Eg-jIWWemeQ_1160_1170 the Terran Player manages the attacking and working units
+Eg-jIWWemeQ_1175_1185 the Terran player builds Marines
+Eg-jIWWemeQ_1175_1185 the player trains Marines
+Eg-jIWWemeQ_1175_1185 the player waits to collect more resources
+Eg-jIWWemeQ_1175_1185 the Terran player builds units
+Eg-jIWWemeQ_1175_1185 the Terran player selects two Barracks and trains Marines
+Eg-jIWWemeQ_1175_1185 Marines are trained to finish off the Protoss
+Eg-jIWWemeQ_1215_1225 Terran Battlecruisers attack a Protoss base
+Eg-jIWWemeQ_1215_1225 Terran and Protoss aerial units attack each other
+Eg-jIWWemeQ_1215_1225 Protoss units are destroyed while defending their base from Terran BattleCruisers
+Eg-jIWWemeQ_1215_1225 Battlecruisers destroy Protoss structures
+Eg-jIWWemeQ_1215_1225 the Terran player destroys the enemy base
+Eg-jIWWemeQ_1215_1225 two Battlecruisers overcome a Tempest in combat
+jOgmyYJJ0Is_0_10 SCVs are collecting minerals
+jOgmyYJJ0Is_0_10 the player watches workers collecting minerals
+jOgmyYJJ0Is_0_10 SCVs perform their daily activities
+jOgmyYJJ0Is_0_10 a match has just started between two Terran Players
+jOgmyYJJ0Is_35_45 Zerg Drones are gathering minerals, and then the screen switches to the Terran player, whose SCV is building a structure
+jOgmyYJJ0Is_35_45 Zerg Drones collect minerals while an SCV is building a building
+jOgmyYJJ0Is_35_45 the Zerg base is focused as Drones gather minerals
+jOgmyYJJ0Is_35_45 the Zerg player sends an Overlord to scout
+jOgmyYJJ0Is_160_170 Terran Reapers scout the battlefield
+jOgmyYJJ0Is_160_170 A spawn point was set for the Zerg Spawning Pool while Terran Reapers are scouting
+jOgmyYJJ0Is_160_170 a Reaper explores the map while SCVs gather minerals
+jOgmyYJJ0Is_160_170 a Hatchery is being developed by the Zergs
+jOgmyYJJ0Is_205_215 A Terran Reaper engages with a few Zerg units
+jOgmyYJJ0Is_205_215 Zerglings and a Queen fight with a Terran Reaper
+jOgmyYJJ0Is_205_215 the Terran player kites some Zerg units
+jOgmyYJJ0Is_205_215 a Reaper uses its jetpack to avoid Zerg attacks
+jOgmyYJJ0Is_230_240 A pair of Terran Hellions harass Zerg drones collecting minerals
+jOgmyYJJ0Is_230_240 Two Hellions attack drones with their flamethrowers
+jOgmyYJJ0Is_230_240 Terran Hellions infiltrate the Zerg base
+jOgmyYJJ0Is_230_240 the Zerg player defends against Terran vehicles
+jOgmyYJJ0Is_235_245 One Hellion is destroyed and the other runs away
+jOgmyYJJ0Is_235_245 A hellion flees after the Zerg destroy another one
+jOgmyYJJ0Is_235_245 the fight continues between the Hellions and the Infestors
+jOgmyYJJ0Is_235_245 two Hellions fail at harassing the opponent’s drones
+jOgmyYJJ0Is_360_370 The Zerg player sends off a force of units to attack
+jOgmyYJJ0Is_360_370 A squad of Zerglings are assembled and sent off to attack their enemy
+jOgmyYJJ0Is_360_370 Zerg units are sent off to battle
+jOgmyYJJ0Is_360_370 this corridor will be key in the mid game
+jOgmyYJJ0Is_485_495 Terran and Zerg forces prepare to engage with each other just outside the Zerg base
+jOgmyYJJ0Is_485_495 a Zergling scout is destroyed before it can get close to a group of Terran units
+jOgmyYJJ0Is_485_495 Zerglings are prepared to infiltrate the Terran territory
+jOgmyYJJ0Is_485_495 the Terran army is distracted by Queens as Zerg units find an open path to the enemy
+jOgmyYJJ0Is_565_575 The Terran player is expanding their base
+jOgmyYJJ0Is_565_575 Two medivac dropships heal Marines while they hide in the Zerg base
+jOgmyYJJ0Is_565_575 Medivac Dropships arrive just in time to help the Marines in battle
+jOgmyYJJ0Is_565_575 the Terran Player must keep an eye on its resources while he sends units to the opponent
+jOgmyYJJ0Is_610_620 Marines engage with Zerglings and Banelings
+jOgmyYJJ0Is_610_620 Marines are sent in on the front line to allow Siege Tanks time to deploy
+jOgmyYJJ0Is_610_620 the opposing armies engage in skirmish
+jOgmyYJJ0Is_610_620 no player is willing to attack just yet
+jOgmyYJJ0Is_620_630 Medivac dropships follow the Marines to heal them when they’re injured, or evacuate them if needed
+jOgmyYJJ0Is_620_630 Terran Marines move in to attack the Zerg base
+jOgmyYJJ0Is_620_630 the players are dancing back and forth, waiting for the opportunity to attack
+jOgmyYJJ0Is_620_630 a big battle is about to commence
+jOgmyYJJ0Is_815_825 Marines are healed by the Medivacs as they advance
+jOgmyYJJ0Is_815_825 a small group of Terran soldiers is assembled just outside of the Creep
+jOgmyYJJ0Is_815_825 Terran units are heavily damaged and awaiting for healers to arrive
+jOgmyYJJ0Is_815_825 the Terran player moves onward, destroying all Zergs in sight
+jOgmyYJJ0Is_830_840 the last Siege Tank is destroyed
+jOgmyYJJ0Is_830_840 Medivac Dropships are used to transport marines over a barrier to ambush the Zerg base
+jOgmyYJJ0Is_830_840 the Zerg army overwhelms the rest of the Terran units
+jOgmyYJJ0Is_830_840 a high amount of fast Zerglings swarm the opponent
+jOgmyYJJ0Is_850_860 Terran marines are cornered against a wall but saved by Medivac Dropships
+jOgmyYJJ0Is_850_860 the Terran attack force is repelled and they flee
+jOgmyYJJ0Is_850_860 the marines are cornered and killed in battle, while the Medivacs escape to safety
+jOgmyYJJ0Is_850_860 Medivacs can escape due to their flight capabilities
+jOgmyYJJ0Is_1020_1030 Zerg Queens head back toward Creep
+jOgmyYJJ0Is_1020_1030 A Zerg army is assembled just outside of the vision of a Terran base
+jOgmyYJJ0Is_1020_1030 the Zerg army highly outnumbers the Terrans and is ready to attack
+jOgmyYJJ0Is_1020_1030 Terrans have no units to defend against the Zerg
+jOgmyYJJ0Is_1145_1155 The Zerg army is noticed by a scanner and their air units are attacked by a turret
+jOgmyYJJ0Is_1145_1155 Zerglings and Banelings advance while an anti-air turret attacks Overseers
+jOgmyYJJ0Is_1145_1155 the scanner has found the Zerg army trying to infiltrate Terran territory
+jOgmyYJJ0Is_1145_1155 the Terran player has discovered the Zergs' whereabouts
+jOgmyYJJ0Is_1260_1270 Terrans deploy a new Orbital Command Center near minerals and Vespene
+jOgmyYJJ0Is_1260_1270 a Zerg army advances quickly over Creep toward the Terran base
+jOgmyYJJ0Is_1260_1270 Drones keep gathering resources while an orbital command is set in place
+jOgmyYJJ0Is_1260_1270 the Zerg player desperately needs more resources
+jOgmyYJJ0Is_1390_1400 The Terrans drop a scanner to make sure it’s safe for their Command Center to proceed.
+jOgmyYJJ0Is_1390_1400 Zerg Hydras flee while the Terrans scan for burrowed units.
+jOgmyYJJ0Is_1390_1400 Terrans strike back against the burrowed Zergs
+jOgmyYJJ0Is_1390_1400 a bunch of Zerglings almost take down the orbital command, but it manages to fly away
+jOgmyYJJ0Is_1400_1410 A Terran Command Center is destroyed while on the way to establish a new base
+jOgmyYJJ0Is_1400_1410 Hydralisks take down a Command Center
+jOgmyYJJ0Is_1400_1410 The Orbital Command explodes dramatically mid air
+jOgmyYJJ0Is_1400_1410 the Terran Player won’t be able to pursue its plans as the Command Center has been downed
+jOgmyYJJ0Is_1450_1460 Zerglings work to break down a barrier in preparation for an attack
+jOgmyYJJ0Is_1450_1460 A massive Zerg force prepares to attack the Terrans
+jOgmyYJJ0Is_1450_1460 as soon as the Zerlings destroy the obstacles, the field will open for more aggressive play
+jOgmyYJJ0Is_1450_1460 the Zerg player prepares a huge invasion
+jOgmyYJJ0Is_1565_1575 The Zerg are building another base at the bottom of the map
+jOgmyYJJ0Is_1565_1575 A new Hatchery is being built
+jOgmyYJJ0Is_1565_1575 the Hatchery is about to be found by the Terran player
+jOgmyYJJ0Is_1565_1575 the Zergs sneakily build a Hatchery near the Terran forces
+jOgmyYJJ0Is_1600_1610 A force of Zerglings, Banelings, and Vipers are attack the Terran base
+jOgmyYJJ0Is_1600_1610 Terran Vikings and Marines are chased back to their base by Zerg units
+jOgmyYJJ0Is_1600_1610 the Zerg army destroy the defenses and is about to enter the Terran base
+jOgmyYJJ0Is_1600_1610 the Terrans won’t be able to come back easily after this attack by the Zerg forces
+jOgmyYJJ0Is_1710_1720 The Terrans chase away Zerg units and drop a scanner to make sure they don’t come back
+jOgmyYJJ0Is_1710_1720 Terran units drive off Zerg invaders, while the player checks on a mobile Command Center that’s being attacked by Zerg
+jOgmyYJJ0Is_1710_1720 the Terrans have uncovered the Zerg units locations and the Zerg retreats
+jOgmyYJJ0Is_1710_1720 the Zerg flees from the scanner to remain covered
+jOgmyYJJ0Is_1800_1810 The Terrans have a Scanner Sweep going to watch an important corridor
+jOgmyYJJ0Is_1800_1810 Terran and Zerg armies are assembled on opposite sides of a corridor
+jOgmyYJJ0Is_1800_1810 the Terran player makes sure its safe to proceed
+jOgmyYJJ0Is_1800_1810 the Terrans shy away after finding multiple Zergs with the scanner
+jOgmyYJJ0Is_1815_1825 The Zerg player is victorious
+jOgmyYJJ0Is_1815_1825 The Zerg player attacks the Terran base until they give up
+jOgmyYJJ0Is_1815_1825 that scanner won’t help the Terrans avoid defeat
+jOgmyYJJ0Is_1815_1825 the Zergs has outplayed the Terrans and won the match
+K1bQuMnMqKY_35_45 Two Terran Barracks and a Command Center deploy as the match starts
+K1bQuMnMqKY_35_45 The player looks at their base as workers gather minerals
+K1bQuMnMqKY_35_45 a new match starts as the command centers are being deployed
+K1bQuMnMqKY_35_45 SCVs prepare to quickly gather resources as the match begins
+K1bQuMnMqKY_90_100 A factory lands and is deployed
+K1bQuMnMqKY_90_100 Two Terran structures are deployed from the air
+K1bQuMnMqKY_90_100 Two structures are set up by the Terrans
+K1bQuMnMqKY_90_100 The terrans arranges their base on the left side of the map
+K1bQuMnMqKY_120_130 Marines are sent into a bunker to defend the Terran base
+K1bQuMnMqKY_120_130 The sensor tower is upgraded into a radar tower.
+K1bQuMnMqKY_120_130 the sensor tower will come in handy later in the match
+K1bQuMnMqKY_120_130 the sensor tower will be able to sense nearby enemies
+K1bQuMnMqKY_125_135 the Sensor Tower is transformed into a radar tower
+K1bQuMnMqKY_125_135 By upgrading to a radar tower, the sensor tower can now detect units in the fog of war in a larger area
+K1bQuMnMqKY_125_135 a sensor tower has been upgraded to a radar tower
+K1bQuMnMqKY_125_135 the Terran player now has a langer sensing radius
+K1bQuMnMqKY_130_140 The radar tower detects enemy units moving in the fog of war
+K1bQuMnMqKY_130_140 Enemy units are detected in the fog of war
+K1bQuMnMqKY_130_140 the radar tower senses nearby enemy units
+K1bQuMnMqKY_130_140 enemy units are moving through the fog of war
+K1bQuMnMqKY_165_175 Enemy Battlecruisers approach the base and are attacked
+K1bQuMnMqKY_165_175 Terran anti-aircraft turrets attack the Battlecruisers
+K1bQuMnMqKY_165_175 Battlecruisers surround the red Terran forces
+K1bQuMnMqKY_165_175 three Battlecruisers appear from the fog of war
+K1bQuMnMqKY_185_195 A large group of Marines is annihilated by the enemy Battlecruisers
+K1bQuMnMqKY_185_195 The battlecruisers use their plasma arrays to clear a large group of enemy marines quickly
+K1bQuMnMqKY_185_195 Terran marines defend their base against Battlecruisers
+K1bQuMnMqKY_185_195 Marines attempt to ward off the Battlecruiser attack
+K1bQuMnMqKY_200_210 a squadron of Vikings is sent to attack the Battlecruisers
+K1bQuMnMqKY_200_210 the Terran Viking is an aerial unit for attacking other air units
+K1bQuMnMqKY_200_210 a fleet of Vikings is sent to defend the base
+K1bQuMnMqKY_200_210 Vikings are ready to destroy enemy Battlecruisers
+K1bQuMnMqKY_280_290 Vikings in assault mode are attacked by Siege Tanks
+K1bQuMnMqKY_280_290 Siege Tanks are deployed to quickly deal with the attacking Vikings
+K1bQuMnMqKY_280_290 a group of marauders overwhelms the opposing siege tanks
+K1bQuMnMqKY_280_290 siege tanks have no chance against the Marauders
+K1bQuMnMqKY_305_315 A group of Banshees make short work of defenseless marines
+K1bQuMnMqKY_305_315 The marines can’t defend themselves again the aerial Banshees
+K1bQuMnMqKY_305_315 Aerial units finish off the small marine group
+K1bQuMnMqKY_305_315 the Marines are no match for Banshees
+K1bQuMnMqKY_320_330 The Terran Banshees fly across the map quickly
+K1bQuMnMqKY_320_330 Banshees make good aerial scouts
+K1bQuMnMqKY_320_330 Terran banshees scout the map 
+K1bQuMnMqKY_320_330 the Terran player sends banshees to fly through the map
+K1bQuMnMqKY_330_340 The Banshees find a Terran base and proceed to attack
+K1bQuMnMqKY_330_340 A squadron of Banshees attack and destroy Siege tanks
+K1bQuMnMqKY_330_340 banshees find siege tanks and destroy them 
+K1bQuMnMqKY_330_340 the Siege Tanks are too slow to defend against the banshees
+K1bQuMnMqKY_350_360 Cloaked Banshees finish off a group of marines with Area of Effect missiles
+K1bQuMnMqKY_350_360 Banshees finish off some marines and then move to attack a Terran base
+K1bQuMnMqKY_350_360 the Banshees continue their destruction of the opposing Terran base
+K1bQuMnMqKY_350_360 the Banshees encounter anti air units
+K1bQuMnMqKY_390_400 Reapers jumpjet down from a cliff, and throw demolition charges at enemy Supply Depots
+K1bQuMnMqKY_390_400 Terran Reapers attack a group of Supply Depots with Magnetic Mines
+K1bQuMnMqKY_390_400 Reapers find and attack enemy structures 
+K1bQuMnMqKY_390_400 Reapers throw mine bombs at opposing structures
+K1bQuMnMqKY_395_405 After a short delay, the magnetic mines explode
+K1bQuMnMqKY_395_405 when the Magnetic Mines explode, they destroy the four supply depots
+K1bQuMnMqKY_395_405 Magnetic mines take a bit to explode but are quite effective
+K1bQuMnMqKY_395_405 Structures are destroyed immediately by magnetic mines
+K1bQuMnMqKY_405_415 Reapers attack the enemy SCVs to disrupt their economy
+K1bQuMnMqKY_405_415 the Terran SCVs are being attacked by the Terran Reapers
+K1bQuMnMqKY_405_415 Reapers attack enemy SCVs
+K1bQuMnMqKY_405_415 the Terran Player does not have enough units to defend against the enemy Reaper attack
+K1bQuMnMqKY_420_430 The planetary fortress destroys many of the enemy Reapers before they flee
+K1bQuMnMqKY_420_430 The Terran Planetary fortress destroys a bunch of Reapers
+K1bQuMnMqKY_420_430 the remaining Reaper units jetpack to safety
+K1bQuMnMqKY_420_430 the Planetary Fortress manages to fend off the opposing Reapers
+K1bQuMnMqKY_450_460 an SCV is told to begin building a Thor
+K1bQuMnMqKY_450_460 an SCV begins constructing a Thor while protected by Marines and Siege Cannons
+K1bQuMnMqKY_450_460 an SCV unit is selected
+K1bQuMnMqKY_450_460 the player builds a Factory
+K1bQuMnMqKY_515_525 The camera pans around the Thor
+K1bQuMnMqKY_515_525 The Terran Thor is a powerful assault unit
+K1bQuMnMqKY_515_525 a Thor showcases its powerful cannons
+K1bQuMnMqKY_515_525 the unit fires its cannons
+K1bQuMnMqKY_550_560 The Terran Thor is surrounded by fast moving Cobras
+K1bQuMnMqKY_550_560 The Thor is circled by fast units that it has trouble tracking
+K1bQuMnMqKY_550_560 fast enemies surround a Thor units
+K1bQuMnMqKY_550_560 the Thor unit has a hard time keeping up with the fast Vikings
+K1bQuMnMqKY_555_565 A Thor can’t keep up with smaller, quicker tanks and is destroyed
+K1bQuMnMqKY_555_565 A Thor is encircled and destroyed by smaller units
+K1bQuMnMqKY_555_565 a Thor is defeated in battle against tanks
+K1bQuMnMqKY_555_565 Cobras run circles around a Thor unit and destroy it
+K1bQuMnMqKY_580_590 Three Terran ghosts approach the enemy stealthily
+K1bQuMnMqKY_580_590 Three ghosts are cloaked as they approach Terran Marines
+K1bQuMnMqKY_580_590 three Ghosts and an army of marines meet at the center of the map
+K1bQuMnMqKY_580_590 Ghosts are scouting the map
+K1bQuMnMqKY_600_610 Ghosts are deployed strategically around a sensor tower
+K1bQuMnMqKY_600_610 Each ghost is spread out so they can attack the Terran sensor tower
+K1bQuMnMqKY_600_610 Ghosts are preparing to attack the enemy sensor tower
+K1bQuMnMqKY_600_610 marines flee from the Ghosts
+K1bQuMnMqKY_665_675 A large battle is underway between two groups of Terran forces
+K1bQuMnMqKY_665_675 Terran Thors and Marines attack a Terran base defended by Marines
+K1bQuMnMqKY_665_675 a big battle between Terran forces is playing down on the center of the map
+K1bQuMnMqKY_665_675 powerful Thor units are resilient against the marines
+K1bQuMnMqKY_680_690 The match finishes and the camera fades to black
+K1bQuMnMqKY_680_690 The camera fades out as the game is complete
+K1bQuMnMqKY_680_690 this is the game of Starcraft two
+K1bQuMnMqKY_680_690 the Starcraft match is over
+k8oUc2K8nKs_230_240 The Terran player commands a Barracks to lift off and redeploy in a new position
+k8oUc2K8nKs_230_240 an SCV is taken away from harvesting minerals to build an Engineering Bay
+k8oUc2K8nKs_230_240 barracks are moved while SCVs do what they do best
+k8oUc2K8nKs_230_240 a new match begins with Barracks being positioned in place
+k8oUc2K8nKs_275_285 An SCV gathers minerals while the Terran player builds their base
+k8oUc2K8nKs_275_285 The Terran base is expanded to a second set of minerals
+k8oUc2K8nKs_275_285 the Terran player develops its base quickly
+k8oUc2K8nKs_275_285 the Terran player expands its base at the beginning of the game
+k8oUc2K8nKs_315_325 SCVs are built and assembled in the middle of the base
+k8oUc2K8nKs_315_325 Only a few buildings have been constructed
+k8oUc2K8nKs_315_325 more SCVs units are built
+k8oUc2K8nKs_315_325 SCVs gather resources in the early game
+k8oUc2K8nKs_520_530 The Terran player has assembled a group of Siege Tanks in the middle of their base
+k8oUc2K8nKs_520_530 A group of Siege Tanks is gathered in the middle of the Terran base
+k8oUc2K8nKs_520_530 the Terran begins to gather a decent army
+k8oUc2K8nKs_520_530 several siege tanks have been built by the Terran player
+k8oUc2K8nKs_735_745 A huge amount of Siege Tanks are assembled to defend the Terran base
+k8oUc2K8nKs_735_745 Siege tanks and Vikings are assembled at the base
+k8oUc2K8nKs_735_745 a strong army has been amassed by the Terrans
+k8oUc2K8nKs_735_745 Vikings are assembled in position
+k8oUc2K8nKs_745_755 Vikings move out in front of the Terran base
+k8oUc2K8nKs_745_755 The Terran player moves their Vikings around
+k8oUc2K8nKs_745_755 Vikings are gathered in place and a new structure is built
+k8oUc2K8nKs_745_755 an SCV is commanded to build a Command Center
+k8oUc2K8nKs_770_780 An SCV is commanded to build a fusion core
+k8oUc2K8nKs_770_780 Anti-air turrets defend the Command Center from enemy air units
+k8oUc2K8nKs_770_780 an SCV build a fusion cores as enemy Terran forces attack
+k8oUc2K8nKs_770_780 Aerial units attack from the upper side of the map
+k8oUc2K8nKs_810_820 SCVs are commanded to build Vespene Gas Refineries
+k8oUc2K8nKs_810_820 Soldiers attack the Terran base and the Terran player is forced to defend it
+k8oUc2K8nKs_810_820 a battle develops as the Terran player arranges the units
+k8oUc2K8nKs_810_820 SCVs gather minerals from a safe distance
+k8oUc2K8nKs_850_860 Enemy siege tanks and Medivac Dropships form a battle line
+k8oUc2K8nKs_850_860 Battle lines form on opposite sides of some Terran structures
+k8oUc2K8nKs_850_860 the Terran opposing forces are fighting for map position
+k8oUc2K8nKs_850_860 Siege Tanks and Vikings battle fiercely
+k8oUc2K8nKs_985_995 The Terran player expands their base
+k8oUc2K8nKs_985_995 A Terran player constructs another Command Center in their base
+k8oUc2K8nKs_985_995 an Orbital Command is built while the Terran player develops its units
+k8oUc2K8nKs_985_995 An SCV is selected to build a command center
+k8oUc2K8nKs_1135_1145 A ring of turrets is built to defend the north side of the base
+k8oUc2K8nKs_1135_1145 the main base is attacked by a Zerg army and several structures are destroyed
+k8oUc2K8nKs_1135_1145 Vikings flee the battle as enemies approach
+k8oUc2K8nKs_1135_1145 missile turrets are built around the base
+k8oUc2K8nKs_1250_1260 A new Starport is built
+k8oUc2K8nKs_1250_1260 The Terran player drops a scanner to watch for enemy attacks on their base
+k8oUc2K8nKs_1250_1260 The player builds a Starport and scans the area
+k8oUc2K8nKs_1250_1260 no enemies are found within the scanned radius
+k8oUc2K8nKs_1300_1310 Enemy Terran units are assembled outside the base but revealed by a scanner
+k8oUc2K8nKs_1300_1310 Two groups of Terran units fight near a group of structures
+k8oUc2K8nKs_1300_1310 battlecruisers are sent out to defend against the incoming enemy attack
+k8oUc2K8nKs_1300_1310 the scan reveals enemies and battlecruisers are sent to help
+k8oUc2K8nKs_1380_1390 Some turrets are destroyed to make way for a new Command Center
+k8oUc2K8nKs_1380_1390 The Terran base is rebuilt but a large army attacks
+k8oUc2K8nKs_1380_1390 the Terran army is healing as another Terran army advances through the defense
+k8oUc2K8nKs_1380_1390 a command center is built while aerial units gather to heal
+k8oUc2K8nKs_1400_1410 Battlecruisers and Vikings are able to repel the enemy attack
+k8oUc2K8nKs_1400_1410 A small group of Battlecruisers and Vikings defend their base
+k8oUc2K8nKs_1400_1410 the Battlecruisers are able to defend against the Protoss army
+k8oUc2K8nKs_1400_1410 the Battlecruisers retreat after winning the skirmish
+k8oUc2K8nKs_1410_1420 A large group of Protoss attacks the Terran base
+k8oUc2K8nKs_1410_1420 A battle between Protoss soldiers and Terran forces breaks out
+k8oUc2K8nKs_1410_1420 a large Protoss army approaches the Terran defenses and a huge battle plays out
+k8oUc2K8nKs_1410_1420 the Protoss player keeps harassing but is unable to pass the Terran wall
+k8oUc2K8nKs_1470_1480 SCVs are redeployed to collect minerals from a different area
+k8oUc2K8nKs_1470_1480 Workers are moved from the north side of the base to the south
+k8oUc2K8nKs_1470_1480 the Terran player is waiting for the next attack
+k8oUc2K8nKs_1470_1480 Terrans may not be able to defend their base against the next wave
+k8oUc2K8nKs_1500_1510 The Terran player scans the corridor leading to his base but finds nothing
+k8oUc2K8nKs_1500_1510 The Terran player sees the Zerg Creep is approaching their base and investigates
+k8oUc2K8nKs_1500_1510 no enemies are found by the scan
+k8oUc2K8nKs_1500_1510 the Terran army has time to heal as no enemies are nearby
+k8oUc2K8nKs_1525_1535 A large Terran army attacks the base
+k8oUc2K8nKs_1525_1535 a squadron of Vikings and one of Battlecruisers move to intercept the Terran attackers
+k8oUc2K8nKs_1525_1535 Vikings flank the incoming Terran wave
+k8oUc2K8nKs_1525_1535 a group of Vikings reach the battle
+k8oUc2K8nKs_1540_1550 Battlecruisers and Vikings annihilate a group of Siege tanks
+k8oUc2K8nKs_1540_1550 Siege tanks are no match for Battlecruisers
+k8oUc2K8nKs_1540_1550 Battlecruisers and Vikings stand strong versus the Protoss repeated attacks
+k8oUc2K8nKs_1540_1550 the Terran player is still fighting after the continuing Protoss assault
+k8oUc2K8nKs_1805_1815 A group of Battlecruisers decimate the Zerg base
+k8oUc2K8nKs_1805_1815 Without anti-air units to defend them, the Zerg structures are being destroyed
+k8oUc2K8nKs_1805_1815 Battlecruisers attack Zerg structures
+k8oUc2K8nKs_1805_1815 Vikings and Battlecruisers are destroying the enemy base
+k8oUc2K8nKs_2040_2050 a huge fleet of Battlecruisers wades into a Protoss base
+k8oUc2K8nKs_2040_2050 Battlecruisers are taking damage but demolishing Protoss structures with their Yamato Cannons
+k8oUc2K8nKs_2040_2050 An army of Battlecruisers and siege tanks demolish the Protoss base
+k8oUc2K8nKs_2040_2050 the Protoss base falls quickly against the Terran strike
+k8oUc2K8nKs_2045_2055 the Terrans advance through the Protoss base, destroying everything in sight
+k8oUc2K8nKs_2045_2055 the Terran player goes in to try and finish up the Protoss 
+k8oUc2K8nKs_2045_2055 a group of battlecruisers is destroying Protoss structures, and the Terran player uses a scanner to look for more targets.
+k8oUc2K8nKs_2045_2055 The Terran player scans for more targets for their Battlecruisers to attack
+k8oUc2K8nKs_2085_2095 A group of Terran battlecruisers attacks enemy Terran structures
+k8oUc2K8nKs_2085_2095 A group of siege tanks maneuvers into place
+k8oUc2K8nKs_2085_2095 a large fleet of Battlecruisers patrol the map in search of enemies
+k8oUc2K8nKs_2085_2095 the Battlecruisers search for the next base to destroy
+k8oUc2K8nKs_2240_2250 Battlecruisers attack the last of the Zerg and the player wins the match
+k8oUc2K8nKs_2240_2250 With the destruction of the final Zerg structures, the player is victorious
+k8oUc2K8nKs_2240_2250 the Terran player finishes up the Zergs and wins the game
+k8oUc2K8nKs_2240_2250 the Battlecruisers were key for the Terran victory
+tccZgx9HqXo_40_50 In the early game, the player focuses on gathering minerals and Vespene
+tccZgx9HqXo_40_50 SCVs are gathering minerals
+tccZgx9HqXo_40_50 SCVs gather resources as quickly as possible
+tccZgx9HqXo_40_50 a new match begins with the Terran Player on the lower right corner of the map
+tccZgx9HqXo_45_55 SCVs are gathering minerals
+tccZgx9HqXo_45_55 Additional workers are trained at the Command Center
+tccZgx9HqXo_45_55 worker units bring minerals to the starting Command Center
+tccZgx9HqXo_45_55 Barracks block the way uphill
+tccZgx9HqXo_85_95 SCVs are collecting minerals while Marines are trained from a Barracks 
+tccZgx9HqXo_85_95 In the early game, the player one has a single base and focuses on their economy
+tccZgx9HqXo_85_95 the Terrans now have enough resources to begin training Marines
+tccZgx9HqXo_85_95 the first Marine has been trained by the Terran player
+tccZgx9HqXo_100_110 workers gather minerals and the player scouts the nearby area
+tccZgx9HqXo_100_110 The Terran player focuses on gathering minerals
+tccZgx9HqXo_100_110 Marines are cheap enough to build this quickly into the game
+tccZgx9HqXo_100_110 more Marines are being trained by the Terrans
+tccZgx9HqXo_110_120 The Terran player reassigns an SCV from mineral gathering to construction
+tccZgx9HqXo_110_120 The player begins expanding their base
+tccZgx9HqXo_110_120 the Terran player ramps up with a new structure
+tccZgx9HqXo_110_120 SCVs are commanded to build a structure
+tccZgx9HqXo_165_175 The player begins construction of a starport
+tccZgx9HqXo_165_175 Marines are trained and assembled near the barracks
+tccZgx9HqXo_165_175 more structures are built as SCVs continue gathering
+tccZgx9HqXo_165_175 a factory and a starport are now finished
+tccZgx9HqXo_190_200 Marines are sent out to scout but turn back when an enemy is spotted
+tccZgx9HqXo_190_200 The player manages their base
+tccZgx9HqXo_190_200 marines are gathered in line in front of the barracks
+tccZgx9HqXo_190_200 the Terran player may begin to explore the map soon
+tccZgx9HqXo_235_245 A new Command Center is deployed near marines
+tccZgx9HqXo_235_245 The game is paused
+tccZgx9HqXo_235_245 a new command center has landed near the awaiting marines
+tccZgx9HqXo_235_245 an Orbital center is built near blue crystals and SCVs will begin to gather soon
+tccZgx9HqXo_240_250 The game is paused by the player
+tccZgx9HqXo_240_250 The player pauses on the Command Center and a group of Marines
+tccZgx9HqXo_240_250 this is an interesting move by the Terrans
+tccZgx9HqXo_240_250 the Orbital center will help the terran player gather resources more efficiently and build additional units
+tccZgx9HqXo_305_315 The player begins collecting minerals at their second base
+tccZgx9HqXo_305_315 Resources are collected by SCVs at the second command center
+tccZgx9HqXo_305_315 several marines are now gathered at the edge of the Terran base
+tccZgx9HqXo_305_315 the player begins the game by building two command centers, a supply depot, a factory and other structures
+tccZgx9HqXo_330_340 Additional supply depots are constructed to allow more units to be built
+tccZgx9HqXo_330_340 Soldiers are assembled at the secondary base
+tccZgx9HqXo_330_340 marines stand by as supply depots are prepared
+tccZgx9HqXo_330_340 the Terran player multitasks between gathering resources and building new units
+tccZgx9HqXo_370_380 The player cycles between their command centers
+tccZgx9HqXo_370_380 The player deploys a small group of marines and a tank
+tccZgx9HqXo_370_380 marines and a siege tank are sent out to check for enemies
+tccZgx9HqXo_370_380 the barracks will allow the player to build infantry units more quickly
+tccZgx9HqXo_500_510 A small Protoss squad is attacking the Terran base
+tccZgx9HqXo_500_510 Protoss Zealots attack the Terran base
+tccZgx9HqXo_500_510 grouping the marines in this corner gives the Terrans an advantage 
+tccZgx9HqXo_500_510 marines and turrets are well positioned to defend against the incoming attack
+tccZgx9HqXo_605_615 SCVs work on building a pair of structures while marines are assembled
+tccZgx9HqXo_605_615 Marines are massed behind defensive structures, likely in preparation for an attack
+tccZgx9HqXo_605_615 SCVs diligently gather resources for the Terran army
+tccZgx9HqXo_605_615 the Terrans are building up a strong Marine army
+tccZgx9HqXo_670_680 An army of marines, medivac dropships, and siege tanks advance onto a Protoss base
+tccZgx9HqXo_670_680 Protoss zealots and a Nexus are revealed by a Terran scan and a group of units move to attack them
+tccZgx9HqXo_670_680 multiple Terran units advance towards the enemy base
+tccZgx9HqXo_670_680 the Protoss base has been detected by the Terrans
+tccZgx9HqXo_690_700 Marines are healed by the medivacs as they attack Pylons
+tccZgx9HqXo_690_700 Siege cannons assault the Protoss base but are ambushed by Zealots and Stalkers
+tccZgx9HqXo_690_700 Marauders are sent in front to shoot the Protoss base
+tccZgx9HqXo_690_700 The Protoss react to the Terran attack and send out units to defend
+tccZgx9HqXo_780_790 Terran units return to their base
+tccZgx9HqXo_780_790 The Terran player reassembles their forces
+tccZgx9HqXo_780_790 the Terran queues a ghost academy for construction as the army regroups back in the base
+tccZgx9HqXo_780_790 a group of soldiers and Medivacs return to the base
+tccZgx9HqXo_840_850 A large army of Terrans escort a moving Command Center
+tccZgx9HqXo_840_850 The Terran army is assembled in an area near their base
+tccZgx9HqXo_840_850 Terran troops are ready to attack the enemy
+tccZgx9HqXo_840_850 the Terran player prepares for a large scale attack as the army size increases
+tccZgx9HqXo_865_875 The Terran player begins putting together another base
+tccZgx9HqXo_865_875 SCVs are sent from an older Command Center to a new one to harvest minerals
+tccZgx9HqXo_865_875 SCVs return to mineral gathering duties
+tccZgx9HqXo_865_875 gathering units return to mining near the Command Center
+tccZgx9HqXo_870_880 As another base is established, the large Terran army begins moving
+tccZgx9HqXo_870_880 The player begins moving their army toward the enemy
+tccZgx9HqXo_870_880 the marauders, marines and medivacs assume position
+tccZgx9HqXo_870_880 the Protoss player will have a hard time against a combination of marines and marauders
+tccZgx9HqXo_895_905 The Terran soldiers destroy a mountain
+tccZgx9HqXo_895_905 By destroying the obstacles, the player frees up a new corridor for the army to move through
+tccZgx9HqXo_895_905 a mountain cannot withstand the power of the large Terran army
+tccZgx9HqXo_895_905 the Terran infantry destroys an obstructing rock
+tccZgx9HqXo_900_910 With the obstacle destroyed, the Terran soldiers can move more freely
+tccZgx9HqXo_900_910 Vikings are sent from the base to catch up to the army on the move
+tccZgx9HqXo_900_910 additional vikings are sent out as the Terran units encounter enemies on their way
+tccZgx9HqXo_900_910 the Protoss and Terran players intersect in a tight corridor and the Terrans decide to retreat
+tccZgx9HqXo_965_975 The two sides fight it out until Viking reinforcements arrive
+tccZgx9HqXo_965_975 a Protoss Colossus is destroyed but more units chase the Terran army
+tccZgx9HqXo_965_975 the Protoss units retreats as they see Vikings incoming
+tccZgx9HqXo_965_975 Colossi and zealots are baited by the ground Terran forces until Vikings appear
+tccZgx9HqXo_1050_1060 The Terrans mop up the remaining Protoss forces in the area
+tccZgx9HqXo_1050_1060 Terran marines disrupt the Protoss economy by attacking pylons and probes
+tccZgx9HqXo_1050_1060 while Marauders bombard the nexus, the terran player scans in case of defenses incoming
+tccZgx9HqXo_1050_1060 Colossi are called to defend the Protoss nexus
+tccZgx9HqXo_1070_1080 The Terrans surround the enemy Nexus and the match is finished
+tccZgx9HqXo_1070_1080 The match is complete
+tccZgx9HqXo_1070_1080 join hushang coaching.com for additional starcraft tutorials
+tccZgx9HqXo_1070_1080 the Terrans are able to destroy the enemies Nexus
